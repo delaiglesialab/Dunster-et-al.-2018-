@@ -1,2 +1,2 @@
 # Dunster-et-al.-2018-
-Data for insert final citatation"
+This repo contains data and code used in the Dunster et al. study: http://advances.sciencemag.org/content/4/12/eaau6200
